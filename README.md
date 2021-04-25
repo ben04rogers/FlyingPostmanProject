@@ -7,7 +7,7 @@ Command line program accepts a mail file, plane specfiication file, trip startin
 
 flying-postman.exe mail.txtboeing-spec.txt23:00 –o itinerary.txt
 
-Example output:
+## Example output:
 
 Reading input from mail.txt\
 Optimising tour length: Level 1...\
