@@ -21,4 +21,4 @@ edc      ->      rfv     00:44   01:30\
 *** refuel 10 minutes *** \
 rfv      ->      tgb     01:40   02:14\
 tgb      -> qaz     02:14   03:00\
-Saving itinerary to itinerary.txt\
+Saving itinerary to itinerary.txt
