@@ -9,8 +9,8 @@ flying-postman.exe mail.txtboeing-spec.txt23:00 –o itinerary.txt
 
 Example output:
 
-Reading input from mail.txt
-Optimising tour length: Level 1...
+Reading input from mail.txt\
+Optimising tour length: Level 1...\
 Elapsed time: 123 seconds.
 Tour time: 7 Hours 24 Minutes.
 Tour length: 972.5855
