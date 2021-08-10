@@ -2,7 +2,7 @@
 
 Demo video: https://www.youtube.com/watch?v=PKmS0WBb2uA
 
-Travelling salesperson problem using a heuristic algorithm.Command line program accepts a mail file, plane specfiication file, trip starting time and output file. The program produces an intinerary for the flight listing the order in which stations should be visited so as to minimize the tour length.
+Travelling salesperson problem using a heuristic algorithm. Command line program accepts a mail file, plane specfiication file, trip starting time and output file. The program produces an intinerary for the flight listing the order in which stations should be visited so as to minimize the tour length.
 
 ## Example input: 
 
