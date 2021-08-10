@@ -6,7 +6,9 @@ Travelling salesperson problem using a heuristic algorithm. Command line program
 
 ## Example input: 
 
+```
 flying-postman.exe mail.txtboeing-spec.txt23:00 –o itinerary.txt
+```
 
 ## Example output:
 
