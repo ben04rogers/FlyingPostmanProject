@@ -10,6 +10,7 @@ flying-postman.exe mail.txtboeing-spec.txt23:00 –o itinerary.txt
 
 ## Example output:
 
+```
 Reading input from mail.txt\
 Optimising tour length: Level 1...\
 Elapsed time: 123 seconds.\
@@ -23,3 +24,4 @@ edc      ->      rfv     00:44   01:30\
 rfv      ->      tgb     01:40   02:14\
 tgb      -> qaz     02:14   03:00\
 Saving itinerary to itinerary.txt
+```
